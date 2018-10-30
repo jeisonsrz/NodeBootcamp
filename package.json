@@ -1,0 +1,23 @@
+{
+  "name": "nodebootcamp",
+  "version": "1.0.0",
+  "description": "Bootcamp Node CreaTIC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "correr": "node ServidorInicio.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeisonsrz/NodeBootcamp.git"
+  },
+  "author": "Eureka! Technology - Jeison Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeisonsrz/NodeBootcamp/issues"
+  },
+  "homepage": "https://github.com/jeisonsrz/NodeBootcamp#readme",
+  "dependencies": {
+    "node-emoji": "^1.8.1"
+  }
+}
